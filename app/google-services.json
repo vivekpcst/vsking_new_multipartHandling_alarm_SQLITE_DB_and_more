@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "529999953481",
+    "firebase_url": "https://barreadingapp.firebaseio.com",
+    "project_id": "barreadingapp",
+    "storage_bucket": "barreadingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529999953481:android:5f07002de0fc17a8",
+        "android_client_info": {
+          "package_name": "dzo.com.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529999953481-e382fbssbg969voq2flqn0tg1okli9rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dzo.com.barcodescanner",
+            "certificate_hash": "81c78bf923479323fdffcb78835271b3e3ba6064"
+          }
+        },
+        {
+          "client_id": "529999953481-cmdleqobev9oq9snpp4rgpbieqo20se3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4wJfAiZKf8-pqHklLxZEwYFVj1FexJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529999953481-cmdleqobev9oq9snpp4rgpbieqo20se3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
